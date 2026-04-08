@@ -1,4 +1,4 @@
-# 🚀 End-to-End Data Analytics ETL Project (Python + SQL)
+# End-to-End Data Analytics ETL Project (Python + SQL)
 
 ## 📌 Project Overview
 
