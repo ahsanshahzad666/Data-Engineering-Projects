@@ -1,13 +1,14 @@
 # End-to-End Data Analytics ETL Project (Python + SQL)
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates an **end-to-end data analytics pipeline**, where raw sales data is processed, cleaned, and analyzed to generate meaningful business insights.
 
 The project combines **Python for data processing** and **SQL for business analysis**, following real-world Data Engineering practices.
 
 
-## 🎯 Objectives
+
+## Objectives
 
 * Build a complete **ETL pipeline**
 * Clean and transform raw data using Python
@@ -16,7 +17,8 @@ The project combines **Python for data processing** and **SQL for business analy
 * Generate insights like revenue trends, growth, and performance
 
 
-## 🛠️ Tech Stack
+
+## Tech Stack
 
 * **Python** (Pandas, Data Cleaning)
 * **SQL (MySQL)** (Data Analysis)
@@ -24,7 +26,8 @@ The project combines **Python for data processing** and **SQL for business analy
 * **CSV Files** (Data Source)
 
 
-## 📂 Project Structure
+
+## Project Structure
 
 ```
 end-to-end-etl-data-analytics-python-sql/
@@ -59,7 +62,7 @@ end-to-end-etl-data-analytics-python-sql/
 
 
 
-## 📊 SQL Business Analysis
+## SQL Business Analysis
 
 ### 🔹 Sales Performance
 
@@ -80,14 +83,14 @@ end-to-end-etl-data-analytics-python-sql/
 
 * Highest growth sub-category
 
-## 📈 Key Insights
+## Key Insights
 
 * Identified **top-performing products** driving revenue
 * Found **regional sales leaders**
 * Measured **business growth trends**
 * Highlighted **high-growth categories**
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### Step 1: Clone Repository
 
@@ -105,7 +108,7 @@ git clone https://github.com/your-username/Data-Engineering-Projects.git
 * Open MySQL
 * Run `project1_data_records.sql`
 
-## 💡 Learning Outcomes
+## Learning Outcomes
 
 * Hands-on experience with **ETL pipelines**
 * Real-world **SQL analytics queries**
@@ -113,7 +116,7 @@ git clone https://github.com/your-username/Data-Engineering-Projects.git
 * Structuring a **production-like project**
 
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add dashboard (Power BI / Tableau)
 * Automate pipeline using Airflow
