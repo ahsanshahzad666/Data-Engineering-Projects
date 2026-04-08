@@ -57,7 +57,7 @@ end-to-end-etl-data-analytics-python-sql/
 * Cleaned data loaded into **MySQL database**
 * Table: `orders`
 
----
+
 
 ## 📊 SQL Business Analysis
 
@@ -77,9 +77,8 @@ end-to-end-etl-data-analytics-python-sql/
 
 ### 🔹 Profit Analysis
 
-* Highest growth sub-category
 
----
+* Highest growth sub-category
 
 ## 📈 Key Insights
 
@@ -87,8 +86,6 @@ end-to-end-etl-data-analytics-python-sql/
 * Found **regional sales leaders**
 * Measured **business growth trends**
 * Highlighted **high-growth categories**
-
----
 
 ## 🚀 How to Run This Project
 
@@ -108,8 +105,6 @@ git clone https://github.com/your-username/Data-Engineering-Projects.git
 * Open MySQL
 * Run `project1_data_records.sql`
 
----
-
 ## 💡 Learning Outcomes
 
 * Hands-on experience with **ETL pipelines**
@@ -117,7 +112,6 @@ git clone https://github.com/your-username/Data-Engineering-Projects.git
 * Data cleaning using **Pandas**
 * Structuring a **production-like project**
 
----
 
 ## 📌 Future Improvements
 
@@ -126,12 +120,3 @@ git clone https://github.com/your-username/Data-Engineering-Projects.git
 * Store data in cloud (AWS / GCP)
 * Add incremental data loading
 
----
-
-## 🤝 Connect With Me
-
-If you found this project helpful, feel free to connect or give feedback!
-
----
-
-⭐ Don't forget to star this repository!
